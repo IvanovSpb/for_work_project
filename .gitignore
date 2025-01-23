@@ -58,5 +58,4 @@ docs/_build/
 
 # PyBuilder
 target/
-.venv
 aio_token.py
